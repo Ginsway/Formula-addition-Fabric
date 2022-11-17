@@ -1,35 +1,37 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "formula_addition",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Formula Addition Fabric",
+  "description": "Add more recipes!",
   "authors": [
-    "Me!"
+    "xiaoleqwq",
+    "Ginsway"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "http://xiaole.space/",
+    "sources": "https://github.com/Ginsway/Formula-addition-Fabric/",
+    "issues": "https://github.com/Ginsway/Formula-addition-Fabric/issues"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "GPL-3.0",
+  "icon": "assets/formula_addition/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.ginsway.formula_addition.FormulaAddition"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "formula_addition.mixins.json"
   ],
 
   "depends": {
     "fabricloader": ">=0.14.9",
     "fabric-api": "*",
-    "minecraft": "~1.19",
+    "minecraft": ">=1.16.0 <=1.19.2",
     "java": ">=17"
   },
   "suggests": {

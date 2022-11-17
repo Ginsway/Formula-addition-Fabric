@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:filled_map"
+        },
+        "P": {
+            "item": "minecraft:potion"
+        }
+    },
+    "result": {
+        "item": "minecraft:paper",
+        "count": 1
+    }
+}

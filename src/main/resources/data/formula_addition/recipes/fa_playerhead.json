@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "EBE",
+        "BBB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:black_wool"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "B": {
+            "item": "minecraft:beef"
+        }
+    },
+    "result": {
+        "item": "minecraft:player_head",
+        "count": 1
+    }
+}
