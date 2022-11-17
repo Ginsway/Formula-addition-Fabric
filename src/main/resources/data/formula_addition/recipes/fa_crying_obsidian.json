@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O",
+        "O#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:purple_dye"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:crying_obsidian",
+        "count": 1
+    }
+}
