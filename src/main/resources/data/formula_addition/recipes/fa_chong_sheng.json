@@ -2,14 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:filled_map"
-        },
-        {
-            "item": "minecraft:potion"
+            "item": "minecraft:cat_spawn_egg"
         }
     ],
     "result": {
-        "item": "minecraft:map",
+        "item": "minecraft:totem_of_undying",
         "count": 1
     }
 }
