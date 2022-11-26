@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#T#",
+        "/ /"
+    ],
+    "key": {
+        "#": {
+            "tag": "c:steel_plates"
+        },
+        "T": {
+            "item": "techreborn:cupronickel_heating_coil"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "techreborn:debug_tool",
+        "count": 1
+    }
+}
