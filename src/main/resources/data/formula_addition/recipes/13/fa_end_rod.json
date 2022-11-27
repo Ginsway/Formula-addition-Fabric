@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "P"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:purple_candle"
+        },
+        "P": {
+            "item": "minecraft:purpur_pillar"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_rod",
+        "count": 2
+    }
+}

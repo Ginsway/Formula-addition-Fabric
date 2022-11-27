@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "B": {
+            "item": "minecraft:brown_mushroom_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:shroomlight",
+        "count": 1
+    }
+}
