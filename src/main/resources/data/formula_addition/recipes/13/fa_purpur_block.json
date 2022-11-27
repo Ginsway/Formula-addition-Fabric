@@ -1,16 +1,13 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#E"
-    ],
-    "key": {
-        "#": {
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
             "item": "minecraft:stone_bricks"
         },
-        "E": {
+        {
             "item": "minecraft:ender_pearl"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:purpur_block",
         "count": 1

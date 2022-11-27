@@ -5,7 +5,7 @@
             "item": "minecraft:grass"
         },
         {
-            "item": "minecraft:red_dye"
+            "tag": "c:red_dyes"
         }
     ],
     "result": {

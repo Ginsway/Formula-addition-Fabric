@@ -6,7 +6,7 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:purple_dye"
+            "tag": "c:purple_dyes"
         },
         "O": {
             "item": "minecraft:obsidian"

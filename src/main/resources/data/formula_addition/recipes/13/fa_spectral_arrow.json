@@ -1,16 +1,21 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "F",
+        "B",
+        "R"
+    ],
+    "ingredients": {
+        "F": {
             "item": "minecraft:flint"
         },
-        {
+        "B": {
             "item": "minecraft:blaze_rod"
         },
-        {
+        "R": {
             "item": "minecraft:feather"
         }
-    ],
+    },
     "result": {
         "item": "minecraft:spectral_arrow",
         "count": 8

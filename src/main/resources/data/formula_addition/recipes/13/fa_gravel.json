@@ -5,7 +5,7 @@
             "item": "minecraft:flint"
         },
         {
-            "item": "minecraft:sand"
+            "tag": "minecraft:sand"
         }
     ],
     "result": {

@@ -1,13 +1,17 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "F",
+        "S"
+    ],
+    "keys": {
+        "F":{
             "item": "minecraft:fire_charge"
         },
-        {
+        "S":{
             "item": "minecraft:stick"
         }
-    ],
+    },
     "result": {
         "item": "minecraft:torch",
         "count": 5

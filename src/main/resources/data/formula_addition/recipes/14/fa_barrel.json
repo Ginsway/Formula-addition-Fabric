@@ -6,7 +6,7 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:oak_trapdoor"
+            "tag": "minecraft:wooden_trapdoors"
         },
         "C": {
             "item": "minecraft:composter"

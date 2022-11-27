@@ -8,7 +8,7 @@
             "item": "minecraft:slime_ball"
         },
         {
-            "item": "minecraft:cyan_dye"
+            "tag": "c:cyan_dyes"
         }
     ],
     "result": {

@@ -7,10 +7,10 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:spruce_planks"
+            "tag": "minecraft:planks"
         },
         "g": {
-            "item": "minecraft:gold_ingot"
+            "tag": "c:gold_ingots"
         },
         "C": {
             "item": "minecraft:clock"
