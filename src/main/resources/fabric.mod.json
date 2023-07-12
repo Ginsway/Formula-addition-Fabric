@@ -27,7 +27,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.ginsway.formula_addition.FormulaAddition"
+      "io.github.ginsway.fadd.FormulaAddition"
     ]
   },
   "mixins": [
@@ -35,9 +35,9 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.14.9",
-    "fabric-api": "*",
-    "minecraft": ">=1.16.0 <=1.19.2",
+    "fabricloader": ">=0.14.19",
+    "fabric-api": ">=0.83.0+1.20",
+    "minecraft": "~1.20",
     "java": ">=17"
   },
   "suggests": {
